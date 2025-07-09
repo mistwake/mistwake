@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm l3rbu
+# **Hi there, I'm l3rbu**
 
 I'm a computer science enthusiast with a focus on **network engineering**, **IoT integration**, and **system simulation** using Cisco Packet Tracer.
 
