@@ -16,6 +16,20 @@ I'm a computer science enthusiast with a focus on **network engineering**, **IoT
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/anasmifta)
 [![GitHub](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github)](https://github.com/l3rbu)
 
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=l3rbu&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l3rbu&layout=compact&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=l3rbu&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=l3rbu&theme=radical)
+
+## 📈 Activity Graph
+
+![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=l3rbu&theme=react-dark)
+
 ---
 
 _“Strive for progress, not perfection.”_
