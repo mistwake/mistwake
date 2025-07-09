@@ -1,9 +1,6 @@
 # **Hi there, I'm l3rbu**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=l3rbu&color=blue)
-![Views](https://komarev.com/ghpvc/?username=l3rbu&color=brightgreen)
-![Views](https://komarev.com/ghpvc/?username=l3rbu&color=red)
-![Views](https://komarev.com/ghpvc/?username=l3rbu&style=flat-square)
 
 I'm a computer science enthusiast with a focus on **network engineering**, **IoT integration**, and **system simulation** using Cisco Packet Tracer.
 
