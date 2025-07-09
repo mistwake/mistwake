@@ -21,10 +21,6 @@ I'm a computer science enthusiast with a focus on **network engineering**, **IoT
 ![Stats](https://github-readme-stats.vercel.app/api?username=l3rbu&show_icons=true&theme=radical)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=l3rbu&theme=radical)
 
-## 📈 Activity Graph
-
-![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=l3rbu&theme=react-dark)
-
 ---
 
 _“Strive for progress, not perfection.”_
