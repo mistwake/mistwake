@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi there, I'm l3rbu
 
-<!--
-**l3rbu/l3rbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science enthusiast with a focus on **network engineering**, **IoT integration**, and **system simulation** using Cisco Packet Tracer.
 
-Here are some ideas to get you started:
+## 🚀 My Projects
+- 🔌 [Smart Internet Cafe](https://github.com/l3rbu/smart-internet-cafe) — Cisco PT simulation with IoT integration
+- 💾 SQL Reporting System — Coming soon...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/anasmifta)
+[![GitHub](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github)](https://github.com/l3rbu)
+
+## ⚙️ Tools & Skills
+- Cisco Packet Tracer
+- MySQL / SQL
+- Linux / Networking CLI
+- Git & GitHub
+
+---
+
+_“Strive for progress, not perfection.”_
