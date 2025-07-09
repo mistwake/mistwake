@@ -19,12 +19,7 @@ I'm a computer science enthusiast with a focus on **network engineering**, **IoT
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=l3rbu&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l3rbu&layout=compact&theme=radical)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=l3rbu&theme=radical)
-
-## 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=l3rbu&theme=radical)
 
 ## 📈 Activity Graph
 
