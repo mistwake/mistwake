@@ -3,7 +3,8 @@
 I'm a computer science enthusiast with a focus on **network engineering**, **IoT integration**, and **system simulation** using Cisco Packet Tracer.
 
 ## ⚙️ Tools & Skills
-- Cisco Packet Tracer
+- Cisco
+- Mikrotik
 - MySQL / SQL
 - Linux / Networking CLI
 - Git & GitHub
