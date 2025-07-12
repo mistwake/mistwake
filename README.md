@@ -12,7 +12,7 @@ I'm a computer science enthusiast with a focus on **network engineering**, **IoT
 - Git & GitHub
 
 ## 🚀 My Projects
-- Smart Internet Cafe
+- [Smart Internet Cafe – GitHub Repository](https://github.com/l3rbu/smart-internet-cafe)
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/anasmifta)
