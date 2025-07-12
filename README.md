@@ -1,4 +1,4 @@
-# **Hi there, I'm l3rbu**
+# **Hi there, I'm mistwake**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=l3rbu&color=blue)
 
@@ -9,7 +9,6 @@ I'm a computer science enthusiast with a focus on **network engineering**, **IoT
 - Mikrotik
 - MySQL / SQL
 - Linux / Networking CLI
-- Git & GitHub
 
 ## 🚀 My Projects
 - [Smart Internet Cafe – GitHub Repository](https://github.com/l3rbu/smart-internet-cafe)
