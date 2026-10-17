@@ -1,7 +1,5 @@
 # **Hi there, I'm mistwake**
 
-![Profile Views](https://komarev.com/ghpvc/?username=l3rbu&color=blue)
-
 I'm a computer science enthusiast with a focus on **network engineering**, **IoT integration**, and **system simulation** using Cisco Packet Tracer.
 
 ## ⚙️ Tools & Skills
